@@ -20,6 +20,8 @@ gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
 gem 'simple_form'
 gem 'faker'
+gem 'font-awesome-sass', '~> 5.6.1'
+gem 'simple_form'
 
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
